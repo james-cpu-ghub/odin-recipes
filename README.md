@@ -1,2 +1,3 @@
 # odin-recipes
-Build recipes page
+- Build recipes page
+- Add CSS to pages
